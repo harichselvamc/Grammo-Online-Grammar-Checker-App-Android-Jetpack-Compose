@@ -6,6 +6,16 @@ The UI is built with Jetpack Compose for a clean and modern experience.
 
 ---
 
+## Download
+
+If you want to try the app:
+
+1. Go to the **Releases** section of this repository (right side or top menu in GitHub).  
+2. Open the latest release (for example: `v1.0.0`).  
+3. Download the first `.apk` file attached (for example: `app-debug.apk`).  
+4. Copy it to your Android device and install it (you may need to allow installation from unknown sources).
+
+---
 ## Features
 
 - Grammar and spelling check using LanguageTool API  
